@@ -1,7 +1,8 @@
 # Playing with Fractals
 
 This program creates multiple fractals with different levels of subdivisions.
-https://imgur.com/1CoGycd
+
+![Screenshot](453-skeleton/fractals.png)
 
 ## Keyboard Controls
  ### Scenes
